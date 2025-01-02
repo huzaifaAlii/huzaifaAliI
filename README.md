@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-<!--
+Hi, This is Huzaifa Ali  
+Freelancer (Frontend Development)  
+Interested in App Development (Flutter) and Game Development  
+I’m currently learning App and Game Development  
+
 **huzaifaAlii/huzaifaAliI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
