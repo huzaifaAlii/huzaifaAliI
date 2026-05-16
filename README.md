@@ -280,7 +280,14 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="760" src="https://streak-stats.demolab.com?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75" alt="Huzaifa Ali GitHub Streak Stats" />
+</a>
+
+<br><br>
+
+🔥 Get streak stats for your profile at  
+<a href="https://git.io/streak-stats">git.io/streak-stats</a>
 
 </div>
 
@@ -290,10 +297,21 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=radical&hide_border=true&border_radius=10" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=radical&hide_border=true&border_radius=10&rank_icon=github&custom_title=Huzaifa%20Ali%27s%20GitHub%20Stats" alt="Huzaifa Ali GitHub Stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8&card_width=330&custom_title=Most%20Used%20Languages" alt="Huzaifa Ali Most Used Languages" />
+</a>
 
 </div>
+
+<br>
+
+<p>
+  <b>Note:</b> Top languages only show what languages appear most in my public repositories. It does not fully represent my experience or skill level.
+</p>
 
 <br>
 
@@ -301,7 +319,25 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&radius=12&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph" />
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&radius=12&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph" alt="Huzaifa Ali Contribution Graph" />
+</a>
+
+</div>
+
+<br>
+
+<h3>📌 Extra GitHub Cards</h3>
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Detailed%20GitHub%20Activity" alt="Detailed GitHub Activity" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&custom_title=Language%20Breakdown" alt="Language Breakdown" />
+</a>
 
 </div>
 
