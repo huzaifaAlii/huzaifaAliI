@@ -266,52 +266,57 @@ Backend practice projects focused on REST APIs, authentication, database design,
 </details>
 
 ---
-
 <details open>
 <summary><h2>📊 Stats and Activity</h2></summary>
 
 <br>
 
-### 🔥 Streak Stats
+<h3>🔥 Streak Stats</h3>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width="760" src="https://streak-stats.demolab.com?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75" alt="Huzaifa Ali GitHub Streak Stats" />
+</a>
 
-<br>
+<br><br>
 
-🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)
+🔥 Get streak stats for your profile at  
+<a href="https://git.io/streak-stats">git.io/streak-stats</a>
 
 </div>
 
 <br>
 
-### 💻 GitHub Profile Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-[![Huzaifa Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td width="50%" align="center">
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-</table>
-
-**Note:** Top languages only show what languages appear most in my public repositories. It does not fully represent my experience or skill level.
-
-<br>
-
-### 📈 Contribution Graph
+<h3>💻 GitHub Profile Stats</h3>
 
 <div align="center">
 
-[![Huzaifa Ali Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifaAlii&theme=radical" alt="Huzaifa Ali GitHub Stats" />
+</a>
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifaAlii&theme=radical" alt="Huzaifa Ali Most Used Languages" />
+</a>
+
+</div>
+
+<br>
+
+<p>
+  <b>Note:</b> Top languages only show what languages appear most in my public repositories. It does not fully represent my experience or skill level.
+</p>
+
+<br>
+
+<h3>📈 Contribution Graph</h3>
+
+<div align="center">
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph" alt="Huzaifa Ali Contribution Graph" />
+</a>
 
 </div>
 
