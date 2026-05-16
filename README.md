@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Huzaifa Ali</h1>
+# Huzaifa Ali
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=900&color=FF2D75&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI;Building+AI+%26+Document+Intelligence+Systems;MERN+Stack+Developer;Flutter+Learner+%7C+Game+Dev+Enthusiast;Always+learning.+Always+building." alt="Typing SVG" />
 
@@ -72,15 +72,14 @@ I work with **React, Next.js, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL,
 <tr>
 <td width="50%">
 
-<h3>🧠 Advanced Document Intelligence System</h3>
+### 🧠 Advanced Document Intelligence System
 
 Full-stack AI platform for document analysis, OCR, semantic retrieval, summarization, and natural language Q&A.
 
-<b>Tech Stack:</b>
-
+**Tech Stack:**  
 `FastAPI` `Next.js` `OpenAI Embeddings` `Pytesseract OCR` `Python`
 
-<br><br>
+<br>
 
 <a href="https://github.com/huzaifaAlii/Document-Intelligence-System">
   <img src="https://img.shields.io/badge/View%20Project-FF2D75?style=for-the-badge&logo=github&logoColor=white" />
@@ -89,15 +88,14 @@ Full-stack AI platform for document analysis, OCR, semantic retrieval, summariza
 </td>
 <td width="50%">
 
-<h3>🛒 E-Commerce Web App</h3>
+### 🛒 E-Commerce Web App
 
 MERN e-commerce system with product management, cart, checkout, inventory update, support tickets, and AI shopping chat.
 
-<b>Tech Stack:</b>
-
+**Tech Stack:**  
 `React` `Node.js` `Express.js` `MongoDB` `JWT` `OpenAI API`
 
-<br><br>
+<br>
 
 <a href="https://github.com/huzaifaAlii?tab=repositories">
   <img src="https://img.shields.io/badge/View%20Repos-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
@@ -109,15 +107,14 @@ MERN e-commerce system with product management, cart, checkout, inventory update
 <tr>
 <td width="50%">
 
-<h3>🌐 Developer Portfolio</h3>
+### 🌐 Developer Portfolio
 
 Personal developer portfolio with modern UI, SEO optimization, reusable components, and contact form integration.
 
-<b>Tech Stack:</b>
-
+**Tech Stack:**  
 `Next.js 14` `TypeScript` `Tailwind CSS` `Web3Forms` `Vercel`
 
-<br><br>
+<br>
 
 <a href="https://github.com/huzaifaAlii?tab=repositories">
   <img src="https://img.shields.io/badge/View%20Portfolio-FF2D75?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -126,15 +123,14 @@ Personal developer portfolio with modern UI, SEO optimization, reusable componen
 </td>
 <td width="50%">
 
-<h3>⚙️ Backend & API Projects</h3>
+### ⚙️ Backend & API Projects
 
 Backend practice projects focused on REST APIs, authentication, database design, clean routing, and scalable structure.
 
-<b>Tech Stack:</b>
-
+**Tech Stack:**  
 `Node.js` `Express.js` `FastAPI` `PostgreSQL` `MongoDB`
 
-<br><br>
+<br>
 
 <a href="https://github.com/huzaifaAlii?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20Code-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
@@ -157,7 +153,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 <tr>
 <td width="33%">
 
-<h3>🤖 AI Systems</h3>
+### 🤖 AI Systems
 
 - Document intelligence  
 - OCR extraction  
@@ -168,7 +164,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 </td>
 <td width="33%">
 
-<h3>🌐 Full-Stack Apps</h3>
+### 🌐 Full-Stack Apps
 
 - Frontend dashboards  
 - REST APIs  
@@ -179,7 +175,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 </td>
 <td width="33%">
 
-<h3>📱 Mobile & Game Dev</h3>
+### 📱 Mobile & Game Dev
 
 - Flutter learning  
 - Dart practice  
@@ -200,7 +196,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 <br>
 
-<h3>👨‍💻 Programming and Markup Languages</h3>
+### 👨‍💻 Programming and Markup Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -212,7 +208,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 </p>
 
-<h3>🎨 Frontend</h3>
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -223,7 +219,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-<h3>⚙️ Backend and APIs</h3>
+### ⚙️ Backend and APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -233,7 +229,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-<h3>🗄️ Databases</h3>
+### 🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -244,7 +240,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
 </p>
 
-<h3>🤖 AI, ML and Data</h3>
+### 🤖 AI, ML and Data
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
@@ -255,7 +251,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
   <img src="https://img.shields.io/badge/OCR-Pytesseract-FF2D75?style=flat-square" />
 </p>
 
-<h3>☁️ Cloud and Software Tools</h3>
+### ☁️ Cloud and Software Tools
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -276,68 +272,46 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 <br>
 
-<h3>🔥 Streak Stats</h3>
+### 🔥 Streak Stats
 
 <div align="center">
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width="760" src="https://streak-stats.demolab.com?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760&ring=FF2D75&fire=FF2D75&currStreakLabel=FF2D75" alt="Huzaifa Ali GitHub Streak Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=huzaifaAlii&theme=radical&hide_border=true&border_radius=10&card_width=760)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<br><br>
+<br>
 
-🔥 Get streak stats for your profile at  
-<a href="https://git.io/streak-stats">git.io/streak-stats</a>
+🔥 Get streak stats for your profile at [git.io/streak-stats](https://git.io/streak-stats)
 
 </div>
 
 <br>
 
-<h3>💻 GitHub Profile Stats</h3>
+### 💻 GitHub Profile Stats
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=radical&hide_border=true&border_radius=10&rank_icon=github&custom_title=Huzaifa%20Ali%27s%20GitHub%20Stats" alt="Huzaifa Ali GitHub Stats" />
-</a>
+[![Huzaifa Ali GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8&card_width=330&custom_title=Most%20Used%20Languages" alt="Huzaifa Ali Most Used Languages" />
-</a>
+</td>
+<td width="50%" align="center">
 
-</div>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+</td>
+</tr>
+</table>
 
-<p>
-  <b>Note:</b> Top languages only show what languages appear most in my public repositories. It does not fully represent my experience or skill level.
-</p>
-
-<br>
-
-<h3>📈 Contribution Graph</h3>
-
-<div align="center">
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&radius=12&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph" alt="Huzaifa Ali Contribution Graph" />
-</a>
-
-</div>
+**Note:** Top languages only show what languages appear most in my public repositories. It does not fully represent my experience or skill level.
 
 <br>
 
-<h3>📌 Extra GitHub Cards</h3>
+### 📈 Contribution Graph
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifaAlii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=Detailed%20GitHub%20Activity" alt="Detailed GitHub Activity" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifaAlii&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6&custom_title=Language%20Breakdown" alt="Language Breakdown" />
-</a>
+[![Huzaifa Ali Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifaAlii&theme=react-dark&hide_border=true&area=true&custom_title=Huzaifa%20Ali%27s%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -354,7 +328,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 <tr>
 <td width="50%">
 
-<h3>🎓 Education</h3>
+### 🎓 Education
 
 - **BS Software Engineering**  
   COMSATS University Islamabad  
@@ -367,7 +341,7 @@ Backend practice projects focused on REST APIs, authentication, database design,
 </td>
 <td width="50%">
 
-<h3>📜 Certifications</h3>
+### 📜 Certifications
 
 - Full Stack Web Development — DevelopersHub  
 - Google Analytics  
@@ -435,37 +409,9 @@ Backend practice projects focused on REST APIs, authentication, database design,
 
 ---
 
-<details>
-<summary><h2>🎖️ Holopin Badges</h2></summary>
-
-<br>
-
 <div align="center">
 
-<img src="https://www.holopin.io/api/user/board?user=huzaifaAlii" alt="Holopin Badges" />
-
-</div>
-
-</details>
-
----
-
-<details>
-<summary><h2>📺 Latest Videos / Tutorials</h2></summary>
-
-<br>
-
-Currently preparing technical content and project walkthroughs.
-
-You can add YouTube links here later when your channel is ready.
-
-</details>
-
----
-
-<div align="center">
-
-<h3>⚡ Building. Learning. Improving.</h3>
+### ⚡ Building. Learning. Improving.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF2D75&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Check+out+my+repositories+below.;Let's+build+something+useful." alt="Footer Typing SVG" />
 
