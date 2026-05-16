@@ -58,6 +58,7 @@ I work with **React, Next.js, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL,
 - 📱 Learning Flutter and mobile app development  
 - 🎮 Interested in game development and interactive projects  
 - 🚀 Building real projects to improve daily  
+### 🚀 Future Goal: Become a GitHub Star
 
 </details>
 
